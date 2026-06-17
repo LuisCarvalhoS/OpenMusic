@@ -4,7 +4,7 @@
   <img src="Imagemreadme.png" alt="Open Music" width="800">
 </p>
 
-Download YouTube music and playlists as **WAV 48kHz 16-bit stereo**.
+Download YouTube as **WAV 48kHz 24-bit stereo**.
 
 ---
 
